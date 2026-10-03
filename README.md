@@ -1,0 +1,2 @@
+# GenaAICourse
+GenAI MainProject
